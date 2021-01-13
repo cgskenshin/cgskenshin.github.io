@@ -10,8 +10,8 @@
                 </div>
                 <div>
                     <ul>
-                        <li><a href="index.html"><span>Giới thiệu</span></a> <ul><a href="index.html"><span>Sơ đồ tổ chức</span></a> <a href="index.html"><span>Thư viện</span></a> </ul> </li>
-                        <li><a href="index.html"><span>Liên hệ</span></a></li>
+                        <li><a href="index.html"><span>Giới thiệu</span></a> <ul><a href="soDo.html"><span>Sơ đồ tổ chức</span></a> <a href="thuVien.html"><span>Thư viện</span></a> </ul> </li>
+                        <li><a href="lienHe.html"><span>Liên hệ</span></a></li>
                         <li><a href="index.html"><span>Góp ý</span></a></li>
                         <li><a href="index.html"><span>Hỏi & Đáp</span></a></li>
                     </ul>
