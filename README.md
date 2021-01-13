@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title> CGSK </title>
+        <title>WEBSITE</title>
     </head>
     <body>
         <div>
